@@ -1,0 +1,5 @@
+.venv/
+.vscode/
+wallpaper.jpg
+wallpaper.png
+*.pyc
